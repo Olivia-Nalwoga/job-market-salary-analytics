@@ -1,0 +1,31 @@
+﻿SkillID,SkillName,Category
+1,Python,Technical
+2,R,Technical
+3,SQL,Technical
+4,Spark,Technical
+5,Airflow,Technical
+6,dbt,Technical
+7,Snowflake,Technical
+8,Databricks,Technical
+9,Kafka,Technical
+10,Tableau,Technical
+11,Power BI,Technical
+12,Statistics,Technical
+13,A/B Testing,Technical
+14,TensorFlow,Technical
+15,PyTorch,Technical
+16,Docker,Technical
+17,Kubernetes,Technical
+18,NLP,Technical
+19,Computer Vision,Technical
+20,Data Modeling,Technical
+21,Data Warehousing,Technical
+22,Feature Engineering,Technical
+23,Git,Technical
+24,Azure,Technical
+25,AWS,Technical
+26,GCP,Technical
+27,BigQuery,Technical
+28,Redshift,Technical
+29,Excel,Technical
+30,Communication,Soft

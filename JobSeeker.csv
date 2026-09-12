@@ -1,0 +1,71 @@
+﻿JobSeekerID,FullName,Email,Degree,FieldOfStudy,DegreeLevel,YearsExperience,Location,LastAppliedDate
+7001,MN Seeker 7001,mn7001@example.com,Doctoral,Computer Engineering,Doctoral,3,"St. Cloud, MN",2025-09-18
+7002,MN Seeker 7002,mn7002@example.com,Doctoral,Computer Science,Doctoral,9,"Rochester, MN",2025-10-29
+7003,MN Seeker 7003,mn7003@example.com,Bachelor,Business Analytics,Bachelor,6,"Rochester, MN",2025-05-22
+7004,MN Seeker 7004,mn7004@example.com,Bachelor,Computer Engineering,Bachelor,11,"Rochester, MN",2025-06-27
+7005,MN Seeker 7005,mn7005@example.com,Master,Information Systems,Master,6,"St. Cloud, MN",2025-04-08
+7006,MN Seeker 7006,mn7006@example.com,Doctoral,Data Science,Doctoral,7,"Rochester, MN",2025-11-12
+7007,MN Seeker 7007,mn7007@example.com,Master,Computer Engineering,Master,7,"Rochester, MN",2025-06-06
+7008,MN Seeker 7008,mn7008@example.com,Bachelor,Data Science,Bachelor,5,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-07-19
+7009,MN Seeker 7009,mn7009@example.com,Doctoral,Computer Engineering,Doctoral,0,"Duluth, MN-WI",2025-01-03
+7010,MN Seeker 7010,mn7010@example.com,Bachelor,Statistics,Bachelor,15,"Duluth, MN-WI",2025-05-10
+7011,MN Seeker 7011,mn7011@example.com,Bachelor,Computer Science,Bachelor,12,"St. Cloud, MN",2025-03-21
+7012,MN Seeker 7012,mn7012@example.com,Bachelor,Business Analytics,Bachelor,3,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-07-07
+7013,MN Seeker 7013,mn7013@example.com,Master,Computer Science,Master,5,"St. Cloud, MN",2025-07-14
+7014,MN Seeker 7014,mn7014@example.com,Master,Information Systems,Master,9,"St. Cloud, MN",2025-03-18
+7015,MN Seeker 7015,mn7015@example.com,Master,Statistics,Master,13,"St. Cloud, MN",2025-09-30
+7016,MN Seeker 7016,mn7016@example.com,Master,Computer Science,Master,2,"St. Cloud, MN",2025-02-14
+7017,MN Seeker 7017,mn7017@example.com,Master,Computer Engineering,Master,10,"St. Cloud, MN",2025-02-18
+7018,MN Seeker 7018,mn7018@example.com,Master,Business Analytics,Master,2,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-05-03
+7019,MN Seeker 7019,mn7019@example.com,Bachelor,Computer Science,Bachelor,7,"Rochester, MN",2025-10-25
+7020,MN Seeker 7020,mn7020@example.com,Master,Business Analytics,Master,1,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-06-06
+7021,MN Seeker 7021,mn7021@example.com,Master,Data Science,Master,8,"Duluth, MN-WI",2025-04-22
+7022,MN Seeker 7022,mn7022@example.com,Master,Business Analytics,Master,6,"Rochester, MN",2025-07-29
+7023,MN Seeker 7023,mn7023@example.com,Master,Computer Science,Master,6,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-08-14
+7024,MN Seeker 7024,mn7024@example.com,Master,Business Analytics,Master,11,"Rochester, MN",2025-02-05
+7025,MN Seeker 7025,mn7025@example.com,Doctoral,Information Systems,Doctoral,9,"Duluth, MN-WI",2025-07-20
+7026,MN Seeker 7026,mn7026@example.com,Doctoral,Computer Engineering,Doctoral,1,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-01-16
+7027,MN Seeker 7027,mn7027@example.com,Bachelor,Computer Engineering,Bachelor,5,"St. Cloud, MN",2025-09-01
+7028,MN Seeker 7028,mn7028@example.com,Master,Business Analytics,Master,6,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-07-02
+7029,MN Seeker 7029,mn7029@example.com,Bachelor,Data Science,Bachelor,2,"Duluth, MN-WI",2025-07-23
+7030,MN Seeker 7030,mn7030@example.com,Master,Business Analytics,Master,4,"St. Cloud, MN",2025-06-07
+7031,MN Seeker 7031,mn7031@example.com,Doctoral,Statistics,Doctoral,12,"Duluth, MN-WI",2025-08-31
+7032,MN Seeker 7032,mn7032@example.com,Bachelor,Business Analytics,Bachelor,11,"St. Cloud, MN",2025-06-29
+7033,MN Seeker 7033,mn7033@example.com,Master,Business Analytics,Master,0,"St. Cloud, MN",2025-01-31
+7034,MN Seeker 7034,mn7034@example.com,Master,Computer Science,Master,14,"St. Cloud, MN",2025-05-17
+7035,MN Seeker 7035,mn7035@example.com,Bachelor,Business Analytics,Bachelor,7,"Duluth, MN-WI",2025-05-16
+7036,MN Seeker 7036,mn7036@example.com,Bachelor,Business Analytics,Bachelor,4,"St. Cloud, MN",2025-09-23
+7037,MN Seeker 7037,mn7037@example.com,Master,Data Science,Master,7,"Rochester, MN",2025-10-21
+7038,MN Seeker 7038,mn7038@example.com,Bachelor,Business Analytics,Bachelor,13,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-07-18
+7039,MN Seeker 7039,mn7039@example.com,Doctoral,Computer Science,Doctoral,2,"Duluth, MN-WI",2025-06-12
+7040,MN Seeker 7040,mn7040@example.com,Bachelor,Information Systems,Bachelor,6,"Rochester, MN",2025-11-26
+7041,MN Seeker 7041,mn7041@example.com,Master,Data Science,Master,9,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-04-03
+7042,MN Seeker 7042,mn7042@example.com,Bachelor,Computer Engineering,Bachelor,6,"Rochester, MN",2025-09-27
+7043,MN Seeker 7043,mn7043@example.com,Master,Computer Science,Master,10,"Rochester, MN",2025-08-17
+7044,MN Seeker 7044,mn7044@example.com,Bachelor,Business Analytics,Bachelor,13,"St. Cloud, MN",2025-07-27
+7045,MN Seeker 7045,mn7045@example.com,Doctoral,Data Science,Doctoral,1,"St. Cloud, MN",2025-04-27
+7046,MN Seeker 7046,mn7046@example.com,Master,Data Science,Master,6,"Rochester, MN",2025-04-02
+7047,MN Seeker 7047,mn7047@example.com,Doctoral,Data Science,Doctoral,1,"St. Cloud, MN",2025-08-02
+7048,MN Seeker 7048,mn7048@example.com,Doctoral,Data Science,Doctoral,3,"Rochester, MN",2025-02-22
+7049,MN Seeker 7049,mn7049@example.com,Doctoral,Information Systems,Doctoral,15,"Duluth, MN-WI",2025-07-19
+7050,MN Seeker 7050,mn7050@example.com,Master,Business Analytics,Master,0,"Duluth, MN-WI",2025-09-26
+7051,MN Seeker 7051,mn7051@example.com,Bachelor,Computer Science,Bachelor,6,"St. Cloud, MN",2025-09-24
+7052,MN Seeker 7052,mn7052@example.com,Bachelor,Business Analytics,Bachelor,11,"Rochester, MN",2025-03-14
+7053,MN Seeker 7053,mn7053@example.com,Master,Business Analytics,Master,2,"Duluth, MN-WI",2025-07-14
+7054,MN Seeker 7054,mn7054@example.com,Master,Data Science,Master,9,"Duluth, MN-WI",2025-07-08
+7055,MN Seeker 7055,mn7055@example.com,Doctoral,Statistics,Doctoral,1,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-11-23
+7056,MN Seeker 7056,mn7056@example.com,Bachelor,Computer Engineering,Bachelor,4,"Rochester, MN",2025-11-01
+7057,MN Seeker 7057,mn7057@example.com,Bachelor,Business Analytics,Bachelor,1,"Rochester, MN",2025-11-26
+7058,MN Seeker 7058,mn7058@example.com,Doctoral,Statistics,Doctoral,15,"St. Cloud, MN",2025-05-30
+7059,MN Seeker 7059,mn7059@example.com,Bachelor,Computer Science,Bachelor,4,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-09-25
+7060,MN Seeker 7060,mn7060@example.com,Bachelor,Business Analytics,Bachelor,15,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-10-26
+7061,MN Seeker 7061,mn7061@example.com,Doctoral,Computer Science,Doctoral,14,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-10-21
+7062,MN Seeker 7062,mn7062@example.com,Master,Business Analytics,Master,1,"Rochester, MN",2025-06-16
+7063,MN Seeker 7063,mn7063@example.com,Doctoral,Information Systems,Doctoral,4,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-05-31
+7064,MN Seeker 7064,mn7064@example.com,Master,Computer Science,Master,9,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-06-27
+7065,MN Seeker 7065,mn7065@example.com,Bachelor,Computer Science,Bachelor,14,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-08-14
+7066,MN Seeker 7066,mn7066@example.com,Master,Information Systems,Master,3,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-01-29
+7067,MN Seeker 7067,mn7067@example.com,Bachelor,Computer Science,Bachelor,0,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-09-20
+7068,MN Seeker 7068,mn7068@example.com,Doctoral,Information Systems,Doctoral,10,"Duluth, MN-WI",2025-03-11
+7069,MN Seeker 7069,mn7069@example.com,Master,Computer Engineering,Master,1,"Duluth, MN-WI",2025-06-17
+7070,MN Seeker 7070,mn7070@example.com,Bachelor,Business Analytics,Bachelor,3,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-07-18

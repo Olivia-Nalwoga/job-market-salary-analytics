@@ -1,0 +1,13 @@
+﻿EmployerID,Name,Industry,Location,ContactInfo,CompanySize,FoundedYear
+1,"Best Buy Co., Inc.",Retail Trade,"Richfield, MN",contact@bestbuycoinc.com,Large,1953
+2,Target Corporation,Retail Trade,"Minneapolis, MN",contact@targetcorporation.com,Small,2001
+3,3M,Manufacturing,"Maplewood, MN",contact@3m.com,Medium,1910
+4,UnitedHealth Group,Health Care and Social Assistance,"Minnetonka, MN",contact@unitedhealthgroup.com,Large,1962
+5,Optum,Information,"Eden Prairie, MN",contact@optum.com,Small,1944
+6,General Mills,Manufacturing,"Golden Valley, MN",contact@generalmills.com,Medium,1938
+7,Cargill,Manufacturing,"Wayzata, MN",contact@cargill.com,Medium,1978
+8,Ecolab,"Professional, Scientific, and Technical Services","St Paul, MN",contact@ecolab.com,Large,2006
+9,Mayo Clinic,Health Care and Social Assistance,"Rochester, MN",contact@mayoclinic.com,Small,1907
+10,U.S. Bancorp (U.S. Bank),Finance and Insurance,"Minneapolis, MN",contact@usbancorpusbank.com,Small,1975
+11,Xcel Energy,Utilities,"Minneapolis, MN",contact@xcelenergy.com,Medium,1995
+12,Medtronic,Manufacturing,"Fridley, MN",contact@medtronic.com,Medium,1944

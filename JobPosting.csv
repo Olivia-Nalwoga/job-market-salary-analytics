@@ -1,0 +1,31 @@
+﻿JobID,EmployerID,Title,Description,MinSalary,MaxSalary,EmploymentType,Location,PostedDate,ApplicationCount
+1,2,BI Analyst,"BI Analyst (Entry) stack: Tableau, Power BI, SQL, A/B Testing.",85001,91750,Contract,"Duluth, MN-WI",2025-02-14,3
+2,1,Data Scientist,"Data Scientist (Senior) stack: Python, SQL, TensorFlow, Statistics.",139625,169082,Part-time,"Duluth, MN-WI",2025-06-19,3
+3,11,MLOps Engineer,"MLOps Engineer (Entry) stack: Docker, Kubernetes, Git, Azure.",123704,131413,Internship,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-09-28,2
+4,4,BI Analyst,"BI Analyst (Entry) stack: Tableau, Power BI, SQL, A/B Testing.",93982,103779,Internship,"Rochester, MN",2025-11-11,2
+5,1,MLOps Engineer,"MLOps Engineer (Entry) stack: Docker, Kubernetes, Git, Azure.",110812,125403,Part-time,"St. Cloud, MN",2025-07-04,3
+6,2,MLOps Engineer,"MLOps Engineer (Entry) stack: Docker, Kubernetes, Git, Azure.",117591,128018,Full-time,"Duluth, MN-WI",2025-11-10,3
+7,4,MLOps Engineer,"MLOps Engineer (Entry) stack: Docker, Kubernetes, Git, Azure.",122215,139769,Internship,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-01-02,2
+8,1,Analytics Engineer,"Analytics Engineer (Mid) stack: dbt, SQL, Snowflake, Data Modeling.",113439,128981,Part-time,"St. Cloud, MN",2025-03-04,3
+9,1,Machine Learning Engineer,"Machine Learning Engineer (Mid) stack: PyTorch, TensorFlow, Python, Docker.",138937,152826,Full-time,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-09-25,3
+10,7,Data Engineer,"Data Engineer (Entry) stack: Spark, Airflow, Databricks, Snowflake.",111686,125812,Full-time,"St. Cloud, MN",2025-02-11,2
+11,1,Analytics Engineer,"Analytics Engineer (Senior) stack: dbt, SQL, Snowflake, Data Modeling.",140069,150478,Temporary,"Rochester, MN",2025-08-26,3
+12,2,Machine Learning Engineer,"Machine Learning Engineer (Senior) stack: PyTorch, TensorFlow, Python, Docker.",161937,179944,Temporary,"Rochester, MN",2025-05-15,3
+13,2,Analytics Engineer,"Analytics Engineer (Entry) stack: dbt, SQL, Snowflake, Data Modeling.",95239,106076,Part-time,"Duluth, MN-WI",2025-05-18,3
+14,12,BI Analyst,"BI Analyst (Entry) stack: Tableau, Power BI, SQL, A/B Testing.",90303,96798,Temporary,"Duluth, MN-WI",2025-07-24,2
+15,1,Machine Learning Engineer,"Machine Learning Engineer (Mid) stack: PyTorch, TensorFlow, Python, Docker.",138707,152908,Contract,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-03-21,3
+16,6,Statistician,"Statistician (Entry) stack: R, Statistics, Python, A/B Testing.",103844,115600,Part-time,"Duluth, MN-WI",2025-05-18,2
+17,8,Machine Learning Engineer,"Machine Learning Engineer (Senior) stack: PyTorch, TensorFlow, Python, Docker.",190535,198859,Full-time,"St. Cloud, MN",2025-11-22,2
+18,1,Analytics Engineer,"Analytics Engineer (Mid) stack: dbt, SQL, Snowflake, Data Modeling.",113863,122007,Part-time,"Duluth, MN-WI",2025-03-26,3
+19,2,Machine Learning Engineer,"Machine Learning Engineer (Mid) stack: PyTorch, TensorFlow, Python, Docker.",127764,143999,Full-time,"St. Cloud, MN",2025-06-19,3
+20,2,MLOps Engineer,"MLOps Engineer (Entry) stack: Docker, Kubernetes, Git, Azure.",113341,121871,Contract,"Duluth, MN-WI",2025-11-29,3
+21,7,Data Analyst,"Data Analyst (Senior) stack: SQL, Tableau, Excel, Statistics.",129440,140734,Full-time,"Duluth, MN-WI",2025-05-16,2
+22,4,Data Analyst,"Data Analyst (Senior) stack: SQL, Tableau, Excel, Statistics.",132379,145481,Part-time,"St. Cloud, MN",2025-09-08,2
+23,4,Data Scientist,"Data Scientist (Mid) stack: Python, SQL, TensorFlow, Statistics.",134396,145854,Full-time,"Duluth, MN-WI",2025-05-29,2
+24,3,Analytics Engineer,"Analytics Engineer (Mid) stack: dbt, SQL, Snowflake, Data Modeling.",119328,137228,Internship,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-02-12,2
+25,1,MLOps Engineer,"MLOps Engineer (Senior) stack: Docker, Kubernetes, Git, Azure.",165968,183789,Contract,"Duluth, MN-WI",2025-05-01,3
+26,1,Analytics Engineer,"Analytics Engineer (Mid) stack: dbt, SQL, Snowflake, Data Modeling.",117690,122889,Part-time,"Duluth, MN-WI",2025-04-07,3
+27,10,Data Engineer,"Data Engineer (Mid) stack: Spark, Airflow, Databricks, Snowflake.",141207,168830,Temporary,"Minneapolis-St. Paul-Bloomington, MN-WI",2025-01-15,2
+28,1,Data Analyst,"Data Analyst (Mid) stack: SQL, Tableau, Excel, Statistics.",105049,112784,Contract,"Duluth, MN-WI",2025-09-29,3
+29,8,Data Engineer,"Data Engineer (Senior) stack: Spark, Airflow, Databricks, Snowflake.",171201,203283,Internship,"Duluth, MN-WI",2025-09-22,2
+30,4,Data Scientist,"Data Scientist (Mid) stack: Python, SQL, TensorFlow, Statistics.",133968,136710,Internship,"Rochester, MN",2025-04-06,2
